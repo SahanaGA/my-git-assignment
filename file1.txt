@@ -1,5 +1,1 @@
-My GIT Assignment Software Course
-My GIT Assignment Software Course
-This is my second line in GitHub
-Adding more content for assignment 8
-
+This is my first git file.
